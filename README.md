@@ -1,32 +1,7 @@
-# PK_Parameters repository by PMXSolutions.com
+![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s196_0RK2qp1mgR1jfHksHy5o0FkhOF1iy8r1UmEjPT9E_logo_356.jpg)
 
-<p align="center">
-<img src="./www/Logo.png" width="200" height="200">
-</p>
+# PK1cmt: Optimize One-Compartment PK Parameters
 
-This Shiny application was created to assist in the simulation of pharmacokinetic profiles and the exploration of different dosing regimens with different parameters.
+#### Use app online: __[www.shinyappstore.com/a/PK1cmt](https://shinyappstore.com/a/PK1cmt)__
 
-The latest version of this repository is being hosted on pmxsolutions.com
-
-Due to the great functionality and ease-of-use, all simulations were based on mrgsolve. 
-
-
-## Run application
-Download, clone, or fork this repository to use the R code within your local R installation. 
-
-Furthermore, the runGitHub command from the Shiny package can be used to immediately execute the latest version from within R:
-
-`library(shiny)`
-
-`runGitHub("PK_Parameters", "michielve")`
-
-
-## Required software
-Make sure mrgsolve is installed and working on your computer:
-https://github.com/metrumresearchgroup/mrgsolve/wiki/mrgsolve-Installation
-
-
-
-## Contribute
-Feel free to use and improve this repository to include additional functionality. Report bugs in the issues section of this repository.
-
+PK1cmt is a powerful application designed for simulating one-compartment pharmacokinetic (PK) profiles and exploring diverse dosing regimens with varying parameters. With PK1cmt, users can easily generate oral PK profiles based on specified doses and model parameters. This tool enables the visualization and customization of PK profiles, making it a valuable asset for researchers, pharmacologists, and healthcare professionals. In the realm of pharmacokinetics, understanding compartmental analysis is crucial. PK1cmt simplifies this process and helps users differentiate between non-compartmental and compartmental PK analysis approaches. It empowers users to derive essential parameters from PK profiles, facilitating data-driven decision-making in drug development and dosing strategies. PK1cmt is your trusted companion for PK profile simulations, offering an intuitive and efficient solution for exploring the world of pharmacokinetics.
